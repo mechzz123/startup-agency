@@ -6,6 +6,8 @@ import SectionHeading from 'components/section-heading';
 import illustration from 'assets/images/banner-illustration.png';
 
 const Banner = () => {
+
+  
   return (
     <Box as="section" id="home" sx={styles.section}>
       <Container>
